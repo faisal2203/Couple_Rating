@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  scroll-behavior: smooth;
+background-image: url('https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/04/markus-spiske-666905-unsplash-1024x683.jpg');
+}
+
+#container {
+text-align: center;
+}
+
+h1 {
+  color: white;
+}
